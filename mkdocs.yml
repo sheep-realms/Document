@@ -80,6 +80,9 @@ nav:
 - 首页: index.md
 - 笔记:
   - Mkdocs 操作手册: note/mkdocs.md
+- 资源:
+  - 字体: res/font.md
+  - 音频素材: res/audio.md
 - 文章存档:
   - 按发布日期:
     - 2023 年 4 月:
@@ -92,3 +95,5 @@ nav:
 - 代码存档:
   - 生成 UUID: code/getUUID.md
   - 实体在平面坐标系上移动: code/entityMove.md
+- 其他存档:
+  - 鸿蒙黑体授权协议: archive/license/harmonyos-sans-fonts.md
