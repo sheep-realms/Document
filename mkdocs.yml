@@ -1,0 +1,94 @@
+site_name: Sheep-realms Docs
+
+repo_name: sheep-realms/Document
+repo_url: https://github.com/sheep-realms/Document
+edit_uri: ""
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      primary: green
+      accent: green
+      scheme: default
+      toggle:
+        icon: material//weather-sunny
+        name: 切换到深色模式
+    - media: "(prefers-color-scheme: dark)"
+      primary: green
+      accent: green
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: 切换到浅色模式
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    # - header.autohide
+    # - navigation.expand
+    # - navigation.indexes
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  # - pymdownx.tabbed:
+  #   alternate_style: true 
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra_css:
+  - style/common.css
+
+copyright: Copyright &copy; Sheep-realms
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/sheep-realms
+    - icon: fontawesome/brands/bilibili
+      link: https://space.bilibili.com/43881503
+
+nav:
+- 首页: index.md
+- 笔记:
+  - Mkdocs 操作手册: note/mkdocs.md
+- 文章存档:
+  - 按发布日期:
+    - 2023 年 4 月:
+      - 给各位服主的忠告：你真的有能力开好服务器吗？: article/2023/04/20-001.md
+      - 浅谈 MediaWiki 社区环境：守旧与革新的博弈: article/2023/04/18-001.md
+    - 2023 年 1 月:
+      - 我们正在经历一场互联网寒冬 —— 乌托邦终究只是一个不切实际的幻想: article/2023/01/09-001.md
+- 项目文档:
+  - 总览: project/index.md
+- 代码存档:
+  - 生成 UUID: code/getUUID.md
+  - 实体在平面坐标系上移动: code/entityMove.md
