@@ -13,6 +13,8 @@
 
 ## 下载器
 - :material-download-box: [Free Download Manager](https://www.freedownloadmanager.org/zh/)
+- :material-download-box: [BitComet](https://www.bitcomet.com/cn)
+- :material-download-box: [Internet Download Manager](https://www.internetdownloadmanager.com/) :fontawesome-solid-coins:{ .color-amber }
 
 ## 创作
 ### 图像
