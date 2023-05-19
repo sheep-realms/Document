@@ -59,6 +59,7 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - footnotes
   # - pymdownx.tabbed:
   #   alternate_style: true 
   - pymdownx.emoji:
@@ -98,3 +99,4 @@ nav:
   - 实体在平面坐标系上移动: code/entityMove.md
 - 其他存档:
   - 鸿蒙黑体授权协议: archive/license/harmonyos-sans-fonts.md
+  - 我对普通的人类没有兴趣: archive\tada-no-ningen-niwa-kyoumi-arimasen.md
