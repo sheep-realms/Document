@@ -39,6 +39,6 @@
 ## 像素 { id="pixel" }
 | :material-format-font: 名称 | 简体字形 | 繁体字形 | 日文字形 | :material-license: 授权协议 |
 | - | - | - | - | - |
-| [Unifont](https://savannah.gnu.org/projects/unifont) | | | | :material-license: GPLv2 |
+| [Unifont](https://savannah.gnu.org/projects/unifont) | :material-check: | :material-check: | | :material-license: GPLv2 |
 | [方舟像素字体 / Ark Pixel Font](https://github.com/TakWolf/ark-pixel-font) |:material-update: |:material-update: | | :material-license: MIT / OFL |
 | [缝合怪像素字体 / Fusion Pixel Font](https://github.com/TakWolf/fusion-pixel-font) | :material-check: | :material-check: | | :material-license: MIT / OFL |
