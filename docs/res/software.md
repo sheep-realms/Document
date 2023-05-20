@@ -42,6 +42,7 @@
 
 ### :material-music: 音乐
 - :material-music-clef-treble: [MuseScore](https://musescore.org/zh-hans)
+- :material-waveform: [NeuralNote](https://github.com/DamRsn/NeuralNote)
 - :material-piano: [FL Studio](https://www.flstudio.com/) :fontawesome-solid-coins:{ .color-amber }
 - :material-waveform: [The Snail](https://www.ircamlab.com/products/p2242-The-Snail/) :fontawesome-solid-coins:{ .color-amber }
 
