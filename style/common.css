@@ -1,0 +1,34 @@
+/* .md-main {
+    min-height: calc(100vh - 95px);
+} */
+
+ruby>span {
+    display: inline-block;
+    width: 0;
+    font-size: 0;
+}
+
+.md-main ::selection {
+    background-color: var(--md-primary-fg-color);
+    color: var(--md-primary-bg-color);
+}
+
+.md-content {
+    padding-bottom: 25vh;
+}
+
+.color-bili {
+    color: #00A1D6;
+}
+
+.color-afdian {
+    color: #926AE4;
+}
+
+.color-red {
+    color: #EF5552;
+}
+
+.color-amber {
+    color: #FFC105;
+}
