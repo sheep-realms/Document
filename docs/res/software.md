@@ -9,6 +9,9 @@
 - :material-memory: [Mem Reduct](https://github.com/henrypp/memreduct)
 - :material-memory: [RAMMap](https://learn.microsoft.com/zh-cn/sysinternals/downloads/rammap)
 
+### :material-package: 安装管理
+- :material-delete: [Geek Uninstaller](https://geekuninstaller.com/)
+
 ### :material-movie-play: 播放器
 - :material-movie-play: [MPC-HC](https://github.com/mpc-hc/mpc-hc)
 
