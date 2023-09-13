@@ -17,6 +17,7 @@
 
 ### :material-download-box: 下载器
 - :material-download-box: [Free Download Manager](https://www.freedownloadmanager.org/zh/)
+- :material-download-box: [Motrix](https://github.com/agalwood/Motrix)
 - :material-download-box: [BitComet](https://www.bitcomet.com/cn)
 - :material-download-box: [Internet Download Manager](https://www.internetdownloadmanager.com/) :fontawesome-solid-coins:{ .color-amber }
 
@@ -25,6 +26,7 @@
 - :material-api: [Postman](https://www.postman.com/)
 
 ### :material-toolbox: 工具箱
+- :material-toolbox: [PowerToys](https://github.com/microsoft/PowerToys)
 - :material-toolbox: [Watt Toolkit (Steam++)](https://steampp.net/)
 - :material-file-cog: [格式工厂](http://www.pcfreetime.com/formatfactory/CN/index.html)
 
@@ -63,6 +65,7 @@
 - :material-sword-cross: [SAO Utils 2](https://store.steampowered.com/app/877280/SAO_Utils_2_Progressive/)
 
 ## :material-lock-open: 破解与逆向
+- :material-key: [HEU KMS Activator](https://github.com/zbezj/HEU_KMS_Activator)
 - :material-memory: [Cheat Engine](https://www.cheatengine.org/)
 - :material-file-lock-open: [AssetStudio](https://github.com/Perfare/AssetStudio)
 - :material-hexadecimal: [Hex Workshop](http://www.hexworkshop.com/) :fontawesome-solid-coins:{ .color-amber }
