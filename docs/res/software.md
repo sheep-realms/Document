@@ -68,6 +68,7 @@
 - :material-key: [HEU KMS Activator](https://github.com/zbezj/HEU_KMS_Activator)
 - :material-memory: [Cheat Engine](https://www.cheatengine.org/)
 - :material-file-lock-open: [AssetStudio](https://github.com/Perfare/AssetStudio)
+- :material-file-lock-open: [ILSpy](https://github.com/icsharpcode/ILSpy)
 - :material-hexadecimal: [Hex Workshop](http://www.hexworkshop.com/) :fontawesome-solid-coins:{ .color-amber }
 - :material-zip-box: [Passware Kit Forensic](https://www.passware.com/kit-forensic/) :fontawesome-solid-coins:{ .color-amber }
 
