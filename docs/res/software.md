@@ -69,6 +69,7 @@
 - :material-memory: [Cheat Engine](https://www.cheatengine.org/)
 - :material-file-lock-open: [AssetStudio](https://github.com/Perfare/AssetStudio)
 - :material-file-lock-open: [ILSpy](https://github.com/icsharpcode/ILSpy)
+- :material-file-lock-open: [dnSpy](https://github.com/dnSpy/dnSpy)
 - :material-hexadecimal: [Hex Workshop](http://www.hexworkshop.com/) :fontawesome-solid-coins:{ .color-amber }
 - :material-zip-box: [Passware Kit Forensic](https://www.passware.com/kit-forensic/) :fontawesome-solid-coins:{ .color-amber }
 
