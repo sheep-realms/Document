@@ -30,6 +30,11 @@
 - :material-toolbox: [Watt Toolkit (Steam++)](https://steampp.net/)
 - :material-file-cog: [格式工厂](http://www.pcfreetime.com/formatfactory/CN/index.html)
 
+### :material-web: 浏览器
+- :material-web: [Chrome](https://www.google.cn/chrome/index.html)
+- :material-web: [Firefox](https://www.firefox.com.cn/)
+- :material-web: [Tor](https://www.torproject.org/zh-CN/)
+
 ## :material-pencil-ruler: 创作与开发
 ### :material-text: 文本
 - :material-file-edit: [Visual Studio Code](https://code.visualstudio.com/)
@@ -44,6 +49,9 @@
 - :material-brush: [Aseprite](https://www.aseprite.org/) :fontawesome-solid-coins:{ .color-amber }
 - :material-human: [DesignDoll](https://terawell.net/) :fontawesome-solid-coins:{ .color-amber }
 - :material-cursor-default: [CursorWorkshop](https://www.axialis.com/cursorworkshop/) :fontawesome-solid-coins:{ .color-amber }
+
+#### :material-file-cad-box: 设计图纸
+- :material-file-cad-box: [LibreCAD](https://librecad.org/)
 
 ### :material-music: 音乐
 - :material-music-clef-treble: [MuseScore](https://musescore.org/zh-hans)
